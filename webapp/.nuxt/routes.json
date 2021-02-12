@@ -1,0 +1,16 @@
+[
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "/Users/markcarey/mywebdev/byu-oit/pages/test.vue",
+    "chunkName": "pages/test",
+    "_name": "_4e3d3ac7"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/markcarey/mywebdev/byu-oit/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_db804d26"
+  }
+]
