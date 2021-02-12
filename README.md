@@ -15,4 +15,4 @@ What I would like to implement:
 
 Screenshot:
 
-![App Screenshot](https://github.com/markallencarey/byu-oit/blob/main/)
+![App Screenshot](https://github.com/markallencarey/byu-oit/blob/main/Screen%20Shot%202021-02-12%20at%203.44.27%20PM.png)
